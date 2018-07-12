@@ -13,5 +13,5 @@ function increaseRankBy(n){
 }
 
 function deepestChild(){
-return documen.tquerySelector('#grand-node.div div div div')
+return document.tquerySelector('#grand-node.div div div div')
 }
