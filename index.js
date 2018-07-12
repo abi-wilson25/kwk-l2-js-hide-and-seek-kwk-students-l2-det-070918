@@ -8,8 +8,8 @@ function nestedTarget(){
 }
 
 function increaseRankBy(n){
-  parseInt(document.querySelectorAll('ul.ranked-list')) + n
-  return newNumber
+  
+  return parseInt(document.querySelectorAll('ul.ranked-list')) + n
 }
 
 function deepestChild(){
