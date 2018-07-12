@@ -1,6 +1,6 @@
 //Code your solution here
-function getFirstSelector(selector){
-  document.querySelector(selector)
+function getFirstSelector(s){
+  document.querySelector(s)
 }
 nestedTarget(){
   document.querySelector('')
